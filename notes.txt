@@ -1,1 +1,29 @@
+Xiaoxu Han
+www.doctorwho.tv
+This is a offical site for a BBC TV show that I am obsessed with recently.
+ 
+  1   697 ms     1 ms     1 ms  CR1000A.mynetworksettings.com [192.168.1.1]
+  
+  2   172 ms   127 ms    17 ms  lo0-100.NWRKNJ-VFTTP-307.verizon-gni.net [98.109.25.1]
+  Newark City Hall
+  3    26 ms     7 ms    14 ms  100.41.26.240
+  Ashburn, Virginia
+  4  1823 ms    12 ms    14 ms  0.csi1.NBWKNJNB-MSE01-BB-SU1.ALTER.NET [140.222.4.106]
+ Los Angeles City Hall
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7   414 ms    22 ms    11 ms  nyk-b2-link.ip.twelve99.net [80.239.192.36]
+  New York City Hall
+  
+  8    85 ms    11 ms     7 ms  nyk-bb2-link.ip.twelve99.net [62.115.137.98]
+  New York City Hall
+  
+  9   500 ms   194 ms   305 ms  ldn-bb1-link.ip.twelve99.net [62.115.113.21]
+ Sweden
+  
+ 10   304 ms   238 ms   157 ms  ldn-b2-link.ip.twelve99.net [62.115.122.189]
+  London, UK
+ 
+ 11    85 ms   187 ms  2054 ms  a100-ic328654-ldn-b2.ip.twelve99-cust.net [80.239.195.91]
+  London, UK
 
